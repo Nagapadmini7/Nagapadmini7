@@ -1,5 +1,3 @@
-[![MasterHead](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fbig-data-developer-web-banner-concept-bid-career-engineer-science-jobs-header-footer-template-copy-space-image193149096&psig=AOvVaw3Bdc3_ZbEDq92-dYPdem5A&ust=1678819966262000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC_z-_J2f0CFQAAAAAdAAAAABAE)]()
-
 
 <h1 align="center">Hi 👋, I'm BUCHETI NAGA PADMINI</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
