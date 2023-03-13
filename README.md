@@ -1,10 +1,9 @@
-[![MasterHead]https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw28F-wvh6slZseZ-sselVob&ust=1678819158727000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi90e7G2f0CFQAAAAAdAAAAABAE
-)]
+[![MasterHead](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fbig-data-developer-web-banner-concept-bid-career-engineer-science-jobs-header-footer-template-copy-space-image193149096&psig=AOvVaw3Bdc3_ZbEDq92-dYPdem5A&ust=1678819966262000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC_z-_J2f0CFQAAAAAdAAAAABAE)]
 
 
 <h1 align="center">Hi 👋, I'm BUCHETI NAGA PADMINI</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw1CKn0VQmaykip4ampu37ms&ust=1678818801225000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDLpcTF2f0CFQAAAAAdAAAAABAE"
+<img align=“right” alt=“Coding” width=“400” src= “https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F615374736573846166%2F&psig=AOvVaw1CKn0VQmaykip4ampu37ms&ust=1678818801225000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDLpcTF2f0CFQAAAAAdAAAAABAJ"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagapadmini7&label=Profile%20views&color=0e75b6&style=flat" alt="nagapadmini7" /> </p>
 
