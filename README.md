@@ -1,4 +1,4 @@
-<![MasterHead]<img src='https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW'>>
+<img src='https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW'>
 
 <h1 align="center">Hi 👋, I'm BUCHETI NAGA PADMINI</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
