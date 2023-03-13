@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm BUCHETI NAGA PADMINI</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
-<img align=“right” alt=“Coding” width=“400” src= “https://tenor.com/view/programming-gif-25868426"
+<img align=“right”  width=“400” src= “https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagapadmini7&label=Profile%20views&color=0e75b6&style=flat" alt="nagapadmini7" /> </p>
 
