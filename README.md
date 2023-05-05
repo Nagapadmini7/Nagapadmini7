@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/euphori15859932" target="blank"><img src="https://img.shields.io/twitter/follow/euphori15859932?logo=twitter&style=for-the-badge" alt="euphori15859932" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on web3 technologies<br>🌱 I’m currently learning <br><br>⚡ Fun fact: I carry my earphones more than my mobile
+🔭 I’m currently working on web3 technologies<br>🌱 I’m currently learning Rust<br><br>⚡ Fun fact: I carry my earphones more than my mobile
 
 
 ## 🌐 Socials:
