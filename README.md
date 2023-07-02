@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/euphori15859932" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/euphori15859932?logo=twitter&style=for-the-badge" alt="https://twitter.com/euphori15859932" /></a> </p>
+
 
 - 🔭 I’m currently working on **FirstChain**
 
